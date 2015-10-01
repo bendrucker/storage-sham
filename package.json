@@ -1,0 +1,29 @@
+{
+  "name": "storage-sham",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "API-compatible in-memory sham for browser Storage",
+  "license": "MIT",
+  "repository": "bendrucker/storage-sham",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "storage",
+    "sham",
+    "api",
+    "memory"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
