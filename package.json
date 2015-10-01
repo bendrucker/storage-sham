@@ -1,7 +1,7 @@
 {
   "name": "storage-sham",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "API-compatible in-memory sham for browser Storage",
   "license": "MIT",
   "repository": "bendrucker/storage-sham",
