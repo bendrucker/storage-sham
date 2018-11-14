@@ -1,4 +1,4 @@
-# storage-sham [![Build Status](https://travis-ci.org/bendrucker/storage-sham.svg?branch=master)](https://travis-ci.org/bendrucker/storage-sham)
+# storage-sham [![Build Status](https://travis-ci.org/bendrucker/storage-sham.svg?branch=master)](https://travis-ci.org/bendrucker/storage-sham) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/storage-sham.svg)](https://greenkeeper.io/)
 
 > API-compatible in-memory sham for browser Storage
 
